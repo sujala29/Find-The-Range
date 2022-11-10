@@ -5,5 +5,5 @@ let array = [28, 43, -12, 30, 4, 0, -36]
 
 let min = Math.min(...array)
 let max = Math.max(...array)
-console.log("Smaller number is",min);
-console.log("Larger number is",max);
+console.log("Smaller numbers is",min);
+console.log("Larger numbers is",max);
